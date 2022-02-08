@@ -1,1 +1,1 @@
-# SpringBoot-JPA-RestAPI-CRUD-opertaions
+# SpringBoot-JPA-RestAPI-CRUD-operations
